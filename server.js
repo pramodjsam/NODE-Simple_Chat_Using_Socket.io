@@ -9,7 +9,7 @@ app.use(express.static(__dirname + "/public"));
 
 mongoose
   .connect(
-    "mongodb+srv://pramodjsam:200pramod2009@cluster0.gqr5y.mongodb.net/mongochat?retryWrites=true&w=majority",
+    "ADD_IN_YOUR_MONGOURI",
     {
       useNewUrlParser: true,
       useCreateIndex: true,
