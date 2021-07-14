@@ -8,5 +8,6 @@ This is a simple chat application using Node.js and socket.io.
 2. npm install
 3. npm start
 
-##Screenshot
+## Screenshot:
+
 ![Alt](/Screenshot.png)
